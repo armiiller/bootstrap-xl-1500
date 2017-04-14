@@ -6839,7 +6839,7 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1200px) and (max-width: 1499px) {
   .visible-lg-block {
     display: block !important;
   }
