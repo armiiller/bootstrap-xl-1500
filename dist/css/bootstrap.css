@@ -1602,7 +1602,7 @@ pre code {
     width: 1170px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .container {
     width: 1470px;
   }
@@ -2253,7 +2253,7 @@ pre code {
     margin-left: 0;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12 {
     float: left;
   }
@@ -6874,7 +6874,7 @@ button.close {
     display: none !important;
   }
 }
-@media (min-width: 1200px) and (max-width: 1199px) {
+@media (min-width: 1200px) and (max-width: 1499px) {
   .visible-lg {
     display: block !important;
   }
@@ -6889,22 +6889,22 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1200px) and (max-width: 1199px) {
+@media (min-width: 1200px) and (max-width: 1499px) {
   .visible-lg-block {
     display: block !important;
   }
 }
-@media (min-width: 1200px) and (max-width: 1199px) {
+@media (min-width: 1200px) and (max-width: 1499px) {
   .visible-lg-inline {
     display: inline !important;
   }
 }
-@media (min-width: 1200px) and (max-width: 1199px) {
+@media (min-width: 1200px) and (max-width: 1499px) {
   .visible-lg-inline-block {
     display: inline-block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-xl {
     display: block !important;
   }
@@ -6919,22 +6919,22 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-xl-block {
     display: block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-xl-inline {
     display: inline !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .visible-xl-inline-block {
     display: inline-block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1500px) {
   .hidden-xl {
     display: none !important;
   }
